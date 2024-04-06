@@ -63,7 +63,11 @@ dt.predict([[5,6]])
 
 
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/150329341/f9556ad1-4a4d-48cf-b8c0-b1e1c28d771a)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/150329341/587cc1dc-0619-4621-986b-05d10e8df35a)
+
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/150329341/b7ea58e3-1bcf-493d-b967-45401b7fbb47)
 
 
