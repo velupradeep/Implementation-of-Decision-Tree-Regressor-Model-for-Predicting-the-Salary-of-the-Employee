@@ -1,6 +1,4 @@
-                                                                  #NAME:PRADEEP V
-                                                                  #REG NO:212223240119
-
+                                                                  
 # EX-07 Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
 
 ## AIM:
